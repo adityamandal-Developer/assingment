@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  max-width: 100%;
+  margin: 0;
+}
